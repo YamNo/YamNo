@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamno&label=Profile%20views&color=0e75b6&style=flat" alt="yamno" /> </p>
 
-- 👯 I’m looking to collaborate on [leophards](https://lynk.id/leophards)
-
 - 🤝 I’m looking for help with [yamno.](https://discord.gg/GcAW8Yv8xa)
 
 - 📫 How to reach me **arfahputra25@gmail.com**
