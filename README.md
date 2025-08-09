@@ -34,10 +34,12 @@ Hobbies: playing game, Music, Spirituality and late night walks!
 <a href="https://github.com/YamNo"><img align="right" width="150" src="buzz-me-call.gif" /></a> **Please Contact me on Discord for a quick
 response:** [Arfah](https://discord.com/users/816943973486559304)
 **You can also email me here:** arfahputra25@gmail.com
+<br>
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/816943973486559304)
 <br> 
 <h1 align="center">Support Me 🎧🎤  </h1>
 <br>
 <a align="center" href="https://saweria.co/Arfah7" target="_blank">
     <img src="images.png" alt="saweria"  style="height: 200px !important;width: 200x !important;">
+
 </a>
