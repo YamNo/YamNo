@@ -33,6 +33,7 @@ Hobbies: playing game, Music, Spirituality and late night walks!
 
 <a href="https://github.com/YamNo"><img align="right" width="150" src="buzz-me-call.gif" /></a> **Please Contact me on Discord for a quick
 response:** [Arfah](https://discord.com/users/816943973486559304)
+<br>
 **You can also email me here:** arfahputra25@gmail.com
 <br>
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/816943973486559304)
@@ -43,3 +44,4 @@ response:** [Arfah](https://discord.com/users/816943973486559304)
     <img src="images.png" alt="saweria"  style="height: 200px !important;width: 200x !important;">
 
 </a>
+
