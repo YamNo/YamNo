@@ -41,7 +41,8 @@ response:** [Arfah](https://discord.com/users/816943973486559304)
 <h1 align="center">Support Me 🎧🎤  </h1>
 <br>
 <a align="center" href="https://saweria.co/Arfah7" target="_blank">
-    <img src="images.png" alt="saweria"  style="height: 200px !important;width: 200x !important;">
+    <img src="images.png" alt="saweria"  style="height: 150px !important;">
 
 </a>
+
 
