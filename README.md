@@ -1,6 +1,7 @@
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 A passionate frontend developer from Indonesia
+<br>
 My hobbies include playing game, Music, Spirituality and late night walks!
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
@@ -44,5 +45,6 @@ response:** [Arfah](https://discord.com/users/816943973486559304)
     <img src="images.png" alt="saweria"  style="height: 150px !important;">
 
 </a>
+
 
 
