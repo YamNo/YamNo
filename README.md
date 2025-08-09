@@ -1,21 +1,43 @@
-<h1 align="center">Hi 👋, I'm Arfah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamno&label=Profile%20views&color=0e75b6&style=flat" alt="yamno" /> </p>
+A passionate frontend developer from Indonesia
+My hobbies include playing game, Music, Spirituality and late night walks!
 
-- 🤝 I’m looking for help with [yamno.](https://discord.gg/GcAW8Yv8xa)
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-- 📫 How to reach me **arfahputra25@gmail.com**
+```sh
+YamNo: ~/my_readme (main⚡)$ neofetch
+```
 
-- ⚡ Fun fact **Gua suka main game and coding**
+<img align="left" src="reactions.gif" width="130px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/arpa25_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpa25_" height="30" width="40" /></a>
-<a href="https://discord.gg/GcAW8Yv8xa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GcAW8Yv8xa" height="30" width="40" /></a>
-</p>
+```csharp
+My Profile
+-------------------------------
+Username: YamNo / Arfah
+WhoamI: Normal People.
+Languages: Html & python
+Pronouns: He-Him.
+Location: Indonesian, Jawa Barat.
+Hobbies: playing game, Music, Spirituality and late night walks!
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
+<div>
+<h2 align="center"> ✨Statistics👨‍💻 </h2>
+</div>
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamno&show_icons=true&locale=en&layout=compact" alt="yamno" /></p>
+</div>
+
+## **📫 Contact**
+
+<a href="https://github.com/YamNo"><img align="right" width="150" src="buzz-me-call.gif" /></a> **Please Contact me on Discord for a quick
+response:** [Arfah](https://discord.com/users/816943973486559304)
+**You can also email me here:** arfahputra25@gmail.com
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/816943973486559304)
+<br> 
+<h1 align="center">Support Me 🎧🎤  </h1>
+<br>
+<a align="center" href="https://saweria.co/Arfah7" target="_blank">
+    <img src="images.png" alt="saweria"  style="height: 200px !important;width: 200x !important;">
+</a>
