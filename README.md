@@ -15,7 +15,7 @@ YamNo: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -------------------------------
-Host: [Fahps](http://fahpsprofile.netlify.app/)
+Host: fahpsprofile.netlify.app
 Username: YamNo / Arfah
 WhoamI: Normal People.
 Languages: Html & python
@@ -46,6 +46,7 @@ response:** [Arfah](https://discord.com/users/816943973486559304)
     <img src="images.png" alt="saweria"  style="height: 150px !important;">
 
 </a>
+
 
 
 
