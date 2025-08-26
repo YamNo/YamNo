@@ -15,7 +15,7 @@ YamNo: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -------------------------------
-Host: fahpsprofile.netlify.app
+Host: fahps.netlify.app
 Username: YamNo / Arfah
 WhoamI: Normal People.
 Languages: Html & python
