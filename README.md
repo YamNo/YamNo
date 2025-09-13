@@ -20,7 +20,7 @@ Username: YamNo / Arfah
 WhoamI: Normal People.
 Languages: Html & python
 Pronouns: He-Him.
-Location: Indonesian, Jawa Barat.
+Location: Indonesian, DKI JAKARTA.
 Hobbies: playing game, Music, Spirituality and late night walks!
 ```
 
