@@ -44,12 +44,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamNo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=YamNo&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamNo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=YamNo&theme=ayu&revert=false&hide_border=false&hide_stroke=false&disabled_animations=false)](https://bit.ly/gh-readme-profile)
+
+<img src="https://streak-stats.demolab.com/?user=YamNo&theme=tokyonight&hide_border=true" width="60%" />
+
 </div>
 
 <br/>
