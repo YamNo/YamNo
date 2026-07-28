@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer%20%F0%9F%92%BB;Node.js%20%26%20Discord.js%20Enthusiast%20%F0%9F%A4%96;Sedang%20belajar%20Frontend%20%F0%9F%8C%B1;Welcome%20to%20my%20profile!%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=50&color=22d3ee&vCenter=true&size=24&pause=1500" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer%20%F0%9F%92%BB;Node.js%20%26%20Discord.js%20Enthusiast%20%F0%9F%A4%96;Learning%20Frontend%20%F0%9F%8C%B1;Welcome%20to%20my%20profile!%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=50&color=22d3ee&vCenter=true&size=24&pause=1500" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,15 +15,15 @@
 
 <br/>
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me
 
-- 🔭 Fokus utama sebagai **Backend Developer**, saat ini sedang memperdalam **Frontend Development**
-- 🤖 Suka bikin bot Discord & tools otomasi dengan **Node.js**
-- 🐍 Juga aktif ngoding dengan **Python**
-- 🗄️ Terbiasa kerja dengan database **MongoDB** & **MySQL**
-- 🌱 Sedang belajar **HTML & CSS** untuk melengkapi skill full stack
-- 💬 Terbuka untuk kolaborasi project, terutama bot & automation
-- ⚡ Fun fact: senang eksplorasi hal baru lewat coding kecil-kecilan
+- 🔭 Focused mainly on **Backend Development**, currently deepening my **Frontend Development** skills
+- 🤖 Enjoy building Discord bots & automation tools with **Node.js**
+- 🐍 Also active in coding with **Python**
+- 🗄️ Comfortable working with **MongoDB** & **MySQL** databases
+- 🌱 Learning **HTML & CSS** to round out full-stack skills
+- 💬 Open to collaborating on projects, especially bots & automation
+- ⚡ Fun fact: I enjoy exploring new things through small coding experiments
 
 <br/>
 
@@ -45,14 +45,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YamNo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamNo&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=YamNo&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamNo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
-
-> ⚠️ Kalau card di atas tampil broken/tidak muncul, biasanya server publiknya sedang overload — coba reload beberapa saat lagi.
 
 <br/>
 
@@ -61,8 +59,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/YamNo/YamNo/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
-
-> 💡 Animasi ular di atas otomatis dibuat lewat GitHub Actions. Lihat cara setup-nya di bagian bawah.
 
 <br/>
 
@@ -88,7 +84,7 @@
 
 <div align="center">
 
-Kalau project atau bot saya bermanfaat, boleh banget traktir kopi 😄
+If my projects or bots have been useful to you, feel free to treat me to a coffee 😄
 
 <a href="https://trakteer.id/yahhhuhh" target="_blank">
   <img src="https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
@@ -98,10 +94,18 @@ Kalau project atau bot saya bermanfaat, boleh banget traktir kopi 😄
 
 <br/>
 
+<div align="center">
+
+💡 *"Life is like a GitHub repository — nothing changes until you commit."*
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-⭐️ Terima kasih sudah mampir ke profil saya!
+⭐️ Thanks for stopping by my profile!
 
 </div>
