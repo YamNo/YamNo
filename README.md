@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/github/followers/YamNo?label=Followers&style=for-the-badge&color=22d3ee" alt="Followers"/>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 🎮 Discord Presence
+<h2 align="center">🎮 Discord Presence</h2>
 
 <div align="center">
 
@@ -23,9 +23,9 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 - 🔭 Focused mainly on **Backend Development**, currently deepening my **Frontend Development** skills
 - 🤖 Enjoy building Discord bots & automation tools with **Node.js**
@@ -35,9 +35,9 @@
 - 💬 Open to collaborating on projects, especially bots & automation
 - ⚡ Fun fact: I enjoy exploring new things through small coding experiments
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -49,9 +49,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -61,17 +61,17 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YamNo/YamNo/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -87,16 +87,16 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3&section=header" width="100%"/>
 
-## ☕ Support Me
+<h2 align="center">☕ Support Me</h2>
 
 <div align="center">
 
 If my projects or bots have been useful to you, feel free to treat me to a coffee 😄
 
-<a href="https://trakteer.id/yahhhuhh" target="_blank">
-  <img src="https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+<a href="https://sociabuzz.com/rapuyyye/donate" target="_blank">
+  <img src="https://img.shields.io/badge/Sociabuzz-Support%20Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </a>
 
 </div>
