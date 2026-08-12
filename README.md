@@ -79,6 +79,16 @@
 
 <br/>
 
+## 🎮 Discord Presence
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/816943973486559304?theme=dark&bg=1a1b27&animated=true&showDisplayName=true)](https://discord.com/users/816943973486559304)
+
+</div>
+
+<br/>
+
 ## ☕ Support Me
 
 <div align="center">
