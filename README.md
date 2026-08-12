@@ -15,6 +15,16 @@
 
 <br/>
 
+## 🎮 Discord Presence
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/816943973486559304?theme=dark&bg=1a1b27&animated=true&showDisplayName=true)](https://discord.com/users/816943973486559304)
+
+</div>
+
+<br/>
+
 ## 🧑‍💻 About Me
 
 - 🔭 Focused mainly on **Backend Development**, currently deepening my **Frontend Development** skills
@@ -74,16 +84,6 @@
 <a href="https://fahps.my.id" target="_blank">
   <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-</div>
-
-<br/>
-
-## 🎮 Discord Presence
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/816943973486559304?theme=dark&bg=1a1b27&animated=true&showDisplayName=true)](https://discord.com/users/816943973486559304)
 
 </div>
 
